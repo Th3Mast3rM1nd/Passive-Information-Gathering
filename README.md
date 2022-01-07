@@ -48,6 +48,17 @@ modules load <name> # modules load profiler
  ![Screenshot from 2022-01-07 13-28-03](https://user-images.githubusercontent.com/92652606/148550907-e2cb0a02-f6ff-484e-b17d-fd6818e8ca6c.png)
 
 
+***Email Harvesting***
+
+```shell
+theHarvester -d domain.com -b google
+```
+
+[OSINT Framework](https://osintframework.com/)
+
+
+maltego 
+
 
 
 
