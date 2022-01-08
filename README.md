@@ -54,6 +54,8 @@ modules load <name> # modules load profiler
 theHarvester -d domain.com -b google
 ```
 
+hunter.io
+
 [OSINT Framework](https://osintframework.com/)
 
 
