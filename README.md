@@ -14,6 +14,8 @@ site:google.com
 intitle:"index of" "parent directory" 
 inurl:"*admin | login" | inurl:.php | .asp
 site:*.github.io intext:cheatsheet+offensive+pentesting
+"Search Somthing"
+
 ```
 [ For more Google Droks ](https://www.exploit-db.com/google-hacking-database)
 
