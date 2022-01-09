@@ -4,6 +4,13 @@
 whois target.com # or whois ip.address to make reverse lookups 
 ```
 
+[WHOIS AND DNS Query ](https://threatintelligenceplatform.com)
+
+[INFO ABOUT IP OR DOMAIN ](https://search.censys.io)
+
+[DNS , WHOIS , NSLOOKUP .... ](https://viewdns.info)
+
+
 ```
 Google Droks 
 
@@ -60,8 +67,8 @@ hunter.io
 
 [OSINT Framework](https://osintframework.com/)
 
-
 maltego 
+
 
 
 
